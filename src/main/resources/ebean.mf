@@ -1,0 +1,3 @@
+entity-packages: com.zenathark.reservacion.domain
+transactional-packages: com.zenathark.reservacion
+querybean-packages: com.zenathark.reservacion

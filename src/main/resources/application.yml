@@ -1,0 +1,6 @@
+datasource:
+  db:
+    username: postgres
+    password: root
+    url: jdbc:postgresql://localhost:5432/reservacion
+    driver: org.postgresql.Driver
